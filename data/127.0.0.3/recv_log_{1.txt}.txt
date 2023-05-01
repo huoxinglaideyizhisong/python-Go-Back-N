@@ -1,0 +1,53 @@
+---------------------------------
+receive 1.txt
+Sun Apr 30 23:39:37 2023, recv correct PDU=0 from ('127.0.0.3', 44444), frame expected=0
+Sun Apr 30 23:39:37 2023, recv correct PDU=1 from ('127.0.0.3', 44444), frame expected=1
+Sun Apr 30 23:39:37 2023, recv correct PDU=2 from ('127.0.0.3', 44444), frame expected=2
+Sun Apr 30 23:39:37 2023, recv correct PDU=3 from ('127.0.0.3', 44444), frame expected=3
+Sun Apr 30 23:39:37 2023, recv correct PDU=4 from ('127.0.0.3', 44444), frame expected=4
+Sun Apr 30 23:39:37 2023, recv correct PDU=5 from ('127.0.0.3', 44444), frame expected=5
+Sun Apr 30 23:39:37 2023, recv correct PDU=6 from ('127.0.0.3', 44444), frame expected=6
+Sun Apr 30 23:39:37 2023, recv correct PDU=7 from ('127.0.0.3', 44444), frame expected=7
+Sun Apr 30 23:39:37 2023, recv correct PDU=8 from ('127.0.0.3', 44444), frame expected=8
+Sun Apr 30 23:39:37 2023, recv correct PDU=9 from ('127.0.0.3', 44444), frame expected=9
+Sun Apr 30 23:39:37 2023, recv correct PDU=10 from ('127.0.0.3', 44444), frame expected=10
+Sun Apr 30 23:39:37 2023, recv correct PDU=11 from ('127.0.0.3', 44444), frame expected=11
+Sun Apr 30 23:39:37 2023, recv correct PDU=12 from ('127.0.0.3', 44444), frame expected=12
+Sun Apr 30 23:39:37 2023, recv correct PDU=13 from ('127.0.0.3', 44444), frame expected=13
+Sun Apr 30 23:39:37 2023, recv correct PDU=14 from ('127.0.0.3', 44444), frame expected=14
+Sun Apr 30 23:39:37 2023, recv correct PDU=15 from ('127.0.0.3', 44444), frame expected=15
+Sun Apr 30 23:39:37 2023, recv correct PDU=0 from ('127.0.0.3', 44444), frame expected=0
+Sun Apr 30 23:39:37 2023, recv correct PDU=1 from ('127.0.0.3', 44444), frame expected=1
+Sun Apr 30 23:39:37 2023, recv correct PDU=2 from ('127.0.0.3', 44444), frame expected=2
+Sun Apr 30 23:39:37 2023, recv correct PDU=3 from ('127.0.0.3', 44444), frame expected=3
+Sun Apr 30 23:39:37 2023, recv correct PDU=4 from ('127.0.0.3', 44444), frame expected=4
+Sun Apr 30 23:39:37 2023, recv correct PDU=5 from ('127.0.0.3', 44444), frame expected=5
+Sun Apr 30 23:39:37 2023, recv correct PDU=6 from ('127.0.0.3', 44444), frame expected=6
+Sun Apr 30 23:39:37 2023, recv correct PDU=7 from ('127.0.0.3', 44444), frame expected=7
+Sun Apr 30 23:39:37 2023, recv correct PDU=8 from ('127.0.0.3', 44444), frame expected=8
+Sun Apr 30 23:39:37 2023, recv correct PDU=9 from ('127.0.0.3', 44444), frame expected=9
+Sun Apr 30 23:39:37 2023, recv correct PDU=10 from ('127.0.0.3', 44444), frame expected=10
+Sun Apr 30 23:39:37 2023, recv correct PDU=11 from ('127.0.0.3', 44444), frame expected=11
+Sun Apr 30 23:39:37 2023, recv correct PDU=12 from ('127.0.0.3', 44444), frame expected=12
+Sun Apr 30 23:39:37 2023, recv correct PDU=13 from ('127.0.0.3', 44444), frame expected=13
+Sun Apr 30 23:39:37 2023, recv correct PDU=14 from ('127.0.0.3', 44444), frame expected=14
+Sun Apr 30 23:39:37 2023, recv correct PDU=15 from ('127.0.0.3', 44444), frame expected=15
+Sun Apr 30 23:39:37 2023, recv correct PDU=0 from ('127.0.0.3', 44444), frame expected=0
+Sun Apr 30 23:39:37 2023, recv correct PDU=1 from ('127.0.0.3', 44444), frame expected=1
+Sun Apr 30 23:39:37 2023, recv correct PDU=2 from ('127.0.0.3', 44444), frame expected=2
+Sun Apr 30 23:39:37 2023, recv correct PDU=3 from ('127.0.0.3', 44444), frame expected=3
+Sun Apr 30 23:39:37 2023, recv correct PDU=4 from ('127.0.0.3', 44444), frame expected=4
+Sun Apr 30 23:39:37 2023, recv correct PDU=5 from ('127.0.0.3', 44444), frame expected=5
+Sun Apr 30 23:39:37 2023, recv correct PDU=6 from ('127.0.0.3', 44444), frame expected=6
+Sun Apr 30 23:39:37 2023, recv correct PDU=7 from ('127.0.0.3', 44444), frame expected=7
+Sun Apr 30 23:39:37 2023, recv correct PDU=8 from ('127.0.0.3', 44444), frame expected=8
+Sun Apr 30 23:39:37 2023, recv correct PDU=9 from ('127.0.0.3', 44444), frame expected=9
+Sun Apr 30 23:39:37 2023, recv correct PDU=10 from ('127.0.0.3', 44444), frame expected=10
+Sun Apr 30 23:39:37 2023, recv correct PDU=11 from ('127.0.0.3', 44444), frame expected=11
+Sun Apr 30 23:39:37 2023, recv correct PDU=12 from ('127.0.0.3', 44444), frame expected=12
+Sun Apr 30 23:39:37 2023, recv correct PDU=13 from ('127.0.0.3', 44444), frame expected=13
+Sun Apr 30 23:39:37 2023, recv correct PDU=14 from ('127.0.0.3', 44444), frame expected=14
+Sun Apr 30 23:39:37 2023, recv correct PDU=15 from ('127.0.0.3', 44444), frame expected=15
+Reception over!
+---------------------------------
+
